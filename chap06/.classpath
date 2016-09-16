@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="base-ht-kie-module/src/main/java"/>
+	<classpathentry kind="src" path="human-task-components-api/src/main/java"/>
+	<classpathentry kind="src" path="human-task-components-api/src/test/java"/>
+	<classpathentry kind="src" path="human-task-extension-points/src/main/java"/>
+	<classpathentry kind="src" path="human-task-extension-points/src/test/java"/>
+	<classpathentry excluding="base-ht-kie-module/src/main/java/|human-task-components-api/src/main/java/|human-task-components-api/src/test/java/|human-task-extension-points/src/main/java/|human-task-extension-points/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="lib" path="base-ht-kie-module/target/base-ht-kie-module-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gmigliozzi/Desktop/human-task-components-api-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="human-task-extension-points/target/human-task-extension-points-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="human-task-extension-points/target/test-classes"/>
+</classpath>
